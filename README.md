@@ -1,3 +1,4 @@
+<div>
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
@@ -23,5 +24,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=majnudev&icon=5&color=1)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
